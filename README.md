@@ -2,11 +2,12 @@
 
 <br>
 
-<h3 align="center">Aula 1 de Introdução LibsJS do Gama Experience Edição 46 - Manipulando Dados I</h3>
+<h3 align="center">Aula 1 de Introdução LibsJS do Gama Experience Edição 46 - Manipulando Dados</h3>
 
 <br>
 
-<p align="center">Nesta aula serão passados os conceitos de Manipulando Dados fazendo uso das Libs https://github.com/CodeSeven/toastr (para que avisos apareçam para o usuário) e https://releases.jquery.com/ (que é obrigatória para a lib de toast "notificações")</p>
+<p align="center">Nesta primeira parte da aula, serão passados os conceitos de Manipulação Dados, fazendo uso das Libs <a href="https://github.com/CodeSeven/toastr">Toast</a> para que avisos apareçam para o usuário em forma de notificação e <a href="https://releases.jquery.com/">Jquery</a> que é obrigatória para a lib de toast funcionar</p>
+<p align="center">Já na segunda parte da aula, serão utilizadas as libs <a href="https://date-fns.org/">date-fns</a> para trabalhar com datas e </p>
 
 <br>
 
