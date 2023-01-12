@@ -7,7 +7,8 @@
 <br>
 
 <p align="center">Nesta primeira parte da aula, serão passados os conceitos de Manipulação Dados, fazendo uso das Libs <a href="https://github.com/CodeSeven/toastr">Toast</a> para que avisos apareçam para o usuário em forma de notificação e <a href="https://releases.jquery.com/">Jquery</a> que é obrigatória para a lib de toast funcionar</p>
-<p align="center">Já na segunda parte da aula, serão utilizadas as libs <a href="https://date-fns.org/">date-fns</a> para trabalhar com datas (essa lib não disponibiliza o link CDN para utilização, então utilizamos o site <a href="https://cdnjs.com/libraries/date-fns/2.0.0-alpha0">cdnjs</a> para encontrar sua CDN) e </p>
+
+<p align="center">Já na segunda parte da aula, serão utilizadas a libs <a href="https://date-fns.org/">date-fns</a> para trabalhar com datas (essa lib não disponibiliza o link CDN para utilização, então utilizamos o site <a href="https://cdnjs.com/libraries/date-fns/2.0.0-alpha0">cdnjs</a> para encontrar sua CDN) e modificamos o fomrato da data, adicionamos as horas e os minutos, ainda utilizamos a funcionalidade "isAfter" a fim de saber se uma data era depois de outra. </p>
 
 <br>
 
