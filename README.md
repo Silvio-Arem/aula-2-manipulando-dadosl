@@ -6,7 +6,7 @@
 
 <br>
 
-<p align="center">Nesta aula serão passados os conceitos de Manipulando Dados fazendo uso das Libs  (para que avisos apareçam para o usuário) e https://github.com/Mobius1/Pageable (para paginação)</p>
+<p align="center">Nesta aula serão passados os conceitos de Manipulando Dados fazendo uso das Libs https://github.com/CodeSeven/toastr (para que avisos apareçam para o usuário) e https://releases.jquery.com/ (que é obrigatória para a lib de toast "notificações")</p>
 
 <br>
 
