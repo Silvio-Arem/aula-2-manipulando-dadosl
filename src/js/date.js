@@ -1,3 +1,3 @@
 let hoje = new Date();
-
-console.log(dateFns.format(hoje, "DD/MM/YYYY"));
+let cincoDias = dateFns.addDays(hoje, 5);
+console.log(dateFns.format(cincoDias, "DD/MM/YYYY"));
